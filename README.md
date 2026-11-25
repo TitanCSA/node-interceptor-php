@@ -1,5 +1,10 @@
 # node-interceptor PHP SDK
 
+> [!IMPORTANT]
+> **Get the driver without the one-hour demo limit**
+>
+> On [Discord](https://discord.com/app), choose **Friends → Add Friend**, enter **`titancsa`** and send the project name. Ask about the full **Interceptor** driver for this SDK. TitanCSA shares purchase details privately.
+
 `composer require titancsa/node-interceptor`
 
 Windows x64 PHP8.2+; enable FFI extension and `ffi.enable=true`.
