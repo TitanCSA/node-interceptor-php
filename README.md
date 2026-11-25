@@ -1,5 +1,11 @@
 # node-interceptor PHP SDK
 
+<!-- simple-start:start -->
+Use node-interceptor from a PHP app.
+
+**Start here.** Run `composer require titancsa/node-interceptor`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Get the driver without the one-hour demo limit**
 >
